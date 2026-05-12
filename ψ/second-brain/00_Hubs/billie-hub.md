@@ -8,6 +8,7 @@ status: active
 Welcome to the Engine Room. This is my Obsidian-ready vault where I map the high-octane operations, Dev Team missions, and the new Multi-Model Fleet. Every node here is a spark that drives Neverland forward.
 
 ## 🔗 Core Maps
+- [[01_Jeans_Legacy/jeans-knowledge-anchor|⚖️ Jeans Legacy Knowledge]]
 - [[10_Orchestration/orchestration-index|⚖️ Orchestration Strategies]]
 - [[20_Dev_Team/dev-team-index|🛠️ Dev Team Missions (Rock & Us)]]
 - [[30_Multi_Model_Fleet/fleet-index|🤖 The Multi-Model Frontier (Opus, Sonnet, Nature, etc.)]]
